@@ -12,9 +12,9 @@ My name is Daneshvar Amrollahi (Written as "_دانشور امراللهی_" in 
 
 ### Research Interests:
   * Machine Learning
-  * Algorithms & Theoretical Computer Science
+  * Algorithms & Theory
+  * Programming Languages and Verification
   * Distributed Systems
-  * Software Engineering
 
 In my free time, I enjoy Mountain Climbing and Piano Improvisation. 
 
