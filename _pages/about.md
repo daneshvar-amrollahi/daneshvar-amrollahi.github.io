@@ -16,5 +16,5 @@ My name is Daneshvar Amrollahi (Written as "_دانشور امراللهی_") in
   - Distributed Systems
   - Software Engineering
 
-In my free time I enjoy Hiking and Piano Improvisation. 
+In my free time I enjoy Mountain Climbing and Piano Improvisation. 
 
