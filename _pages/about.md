@@ -17,4 +17,3 @@ My name is Daneshvar Amrollahi (Written as "_دانشور امراللهی_" in 
   * Distributed Systems
 
 In my free time, I enjoy Mountain Climbing and Piano Improvisation. 
-
