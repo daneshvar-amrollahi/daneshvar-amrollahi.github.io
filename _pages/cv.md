@@ -7,4 +7,9 @@ redirect_from:
   - /resume
 ---
 
-You can download my full CV from [here](https://daneshvar-amrollahi.github.io/files/CV.pdf).
+
+<object data="https://daneshvar-amrollahi.github.io/files/CV.pdf" type="application/pdf">
+    <embed src="https://daneshvar-amrollahi.github.io/files/CV.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://daneshvar-amrollahi.github.io/files/CV.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
