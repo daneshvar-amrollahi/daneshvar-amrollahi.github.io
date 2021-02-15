@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-My name is Daneshvar Amrollahi (Written as "_دانشور امراللهی_" in Persian). I am currently a 3rd year bacheor Computer Engineering student at [School of Electrical and Computer Engineering, College of Engineering, University of Tehran](https://ece.ut.ac.ir/en/ece). 
+My name is Daneshvar Amrollahi (Written as "_دانشور امراللهی_" in Persian). I am currently a 3rd year bacheor Computer Engineering student at the [ECE Department](https://ece.ut.ac.ir/en/ece) of the [University of Tehran](https://ut.ac.ir/en). 
 
 ### Research Interests:
+  * Programming Languages and Verification
   * Machine Learning
   * Algorithms & Theory
-  * Programming Languages and Verification
   * Distributed Systems
 
 In my free time, I enjoy Mountain Climbing and Piano Improvisation. 
