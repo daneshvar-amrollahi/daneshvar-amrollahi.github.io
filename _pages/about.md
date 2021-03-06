@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Daneshvar Amrollahi (Written as "_دانشور امراللهی_" in Persian). I am currently a 3rd-year undergraduate Computer Engineering student at the [ECE Department](https://ece.ut.ac.ir/en/ece) of the [University of Tehran](https://ut.ac.ir/en). 
+My name is **Daneshvar Amrollahi** (Written as "_دانشور امراللهی_" in Persian). I am currently a 3rd-year undergraduate Computer Engineering student at the [ECE Department](https://ece.ut.ac.ir/en/ece) of the [University of Tehran](https://ut.ac.ir/en). 
 
 ### Research Interests:
   * Programming Languages and Verification
