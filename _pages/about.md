@@ -14,6 +14,6 @@ My name is **Daneshvar Amrollahi** (Written as "_دانشور امراللهی_"
   * Programming Languages and Verification
   * Machine Learning
   * Algorithms & Theory
-  * Distributed Systems
+  * Computer Systems
 
 In my free time, I enjoy Mountain Climbing and Piano Improvisation. 
