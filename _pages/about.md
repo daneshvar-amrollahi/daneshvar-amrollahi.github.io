@@ -13,9 +13,10 @@ My name is **Daneshvar Amrollahi** (Written as "_دانشور امراللهی_"
 
 ### Research Interests:
   * Software Verification
-  * Machine Learning
-  * Algorithms & Theory
   * Computer Systems
+  * Algorithms & Theory
+  * Machine Learning
+  
 
 Of course, I am a noob in all of the research areas mentioned above. I am just taking some baby steps in each of them as an undergrad to find out whether I want continue my studies in those areas or not. 
 
