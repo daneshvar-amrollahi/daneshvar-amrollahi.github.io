@@ -10,4 +10,4 @@ redirect_from:
 
 You can download my full CV from [here](https://daneshvar-amrollahi.github.io/files/CV.pdf).
 
-Last Update: June 10, 2021
+Last Update: July 5, 2021
