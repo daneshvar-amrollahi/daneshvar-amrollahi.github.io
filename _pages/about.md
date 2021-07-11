@@ -18,6 +18,4 @@ My name is **Daneshvar Amrollahi** (Written as "_دانشور امراللهی_"
   * Machine Learning
   
 
-Of course, I am a noob in all of the research areas mentioned above. I am just taking some baby steps in each of them as an undergrad to find out whether I want continue my studies in those areas or not. 
-
 In my free time, I enjoy Mountain Climbing and Piano Improvisation. 
