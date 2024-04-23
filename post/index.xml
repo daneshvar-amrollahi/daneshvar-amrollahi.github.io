@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Daneshvar</title>
-    <link>https://cs.stanford.edu/~daneshva/post/</link>
+    <link>https://daneshvar-amrollahi.github.io/post/</link>
     <description>Recent content in Posts on Daneshvar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cs.stanford.edu/~daneshva/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://daneshvar-amrollahi.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>https://cs.stanford.edu/~daneshva/post/2023/11/04/first-post/</link>
+      <link>https://daneshvar-amrollahi.github.io/post/2023/11/04/first-post/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://cs.stanford.edu/~daneshva/post/2023/11/04/first-post/</guid>
+      <guid>https://daneshvar-amrollahi.github.io/post/2023/11/04/first-post/</guid>
       <description>I am in love with this new extremely minimal theme designed by Yihui. It also supports LaTeX math expressions. Here is the induction axiom for structural induction on type $\tau$, that I just copied from our current draft on Overleaf:
 $$ \biggl( \bigwedge_{c \in \Sigma_{\tau}} \Bigl[ \forall_{i = 1}^{n_c} y_{c,i} . \forall_{k \in P_c} w_{c,k} . \exists u_c . \bigl( (\bigwedge_{j \in P_c} L[y_{c,j}, w_{c,j}]) \rightarrow L[c(\bar{y_c}), u_c] \bigr) \Bigr] \biggr) \rightarrow \forall z .</description>
     </item>
