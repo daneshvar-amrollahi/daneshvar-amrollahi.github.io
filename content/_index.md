@@ -18,3 +18,5 @@ Ping me if you want to chat!
 * [Aug 2024]: Giving a talk [Towards Improved Stability for SMT Solvers](https://youtu.be/5ITAlDzSC-c) at the [Center for Automated Reasoning (CENTAUR)](https://centaur.stanford.edu/event_centaur_2024.html) annual meeting, Stanford University. 
 * [March 2024]: Our paper "Synthesis of Recursive Programs in Saturation" got accepted to IJCAR 2024. 
 * [Jan 2024]: Starting my PhD in Computer Science at Stanford University
+
+### Blog
