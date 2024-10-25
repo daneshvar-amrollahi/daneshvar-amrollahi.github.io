@@ -6,17 +6,19 @@ title: Home
 
 ## Daneshvar Amrollahi
 
-I am a second-year Computer Science PhD student at Stanford University, advised by Clark Barrett. I am working on stability of SMT Solvers. 
+I am a second-year Computer Science PhD student at Stanford University, advised by Clark Barrett. I am broadly interested in **Automated Reasoning**.
 
-In my undergrad, I worked on polynomial loop invariant generation, program synthesis, and scaling network verification using symbolic execution.
+In my undergrad, I worked on loop invariant generation, program synthesis, and scaling network verification using symbolic execution.
 
 Ping me if you want to chat!
 
+**I am seeking Summer 2025 internships!**
+
 ### News
 
-* [Oct 2024]: Presenting my poster "Towards Improved Stability for SMT Solvers" at the FMCAD 2024 student forum. 
-* [Aug 2024]: Giving a talk [Towards Improved Stability for SMT Solvers](https://youtu.be/5ITAlDzSC-c) at the [Center for Automated Reasoning (CENTAUR)](https://centaur.stanford.edu/event_centaur_2024.html) annual meeting, Stanford University. 
-* [March 2024]: Our paper "Synthesis of Recursive Programs in Saturation" got accepted to IJCAR 2024. 
-* [Jan 2024]: Starting my PhD in Computer Science at Stanford University
+* [Oct 2024]: Presented my poster "Towards Improved Stability for SMT Solvers" at the [FMCAD 2024](https://fmcad.org/FMCAD24/) student forum. 
+* [Aug 2024]: Gave a talk [Towards Improved Stability for SMT Solvers](https://youtu.be/5ITAlDzSC-c) at the [Center for Automated Reasoning (CENTAUR)](https://centaur.stanford.edu/event_centaur_2024.html) annual meeting, Stanford University. 
+* [March 2024]: Our paper "Synthesis of Recursive Programs in Saturation" got accepted to [IJCAR 2024](https://merz.gitlabpages.inria.fr/2024-ijcar/). 
+* [Jan 2024]: Started my PhD in Computer Science at Stanford University.
 
 ### Blog
