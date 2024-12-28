@@ -8,7 +8,7 @@ title: Home
 
 I am a second-year Computer Science PhD student at Stanford University, advised by Clark Barrett. I am broadly interested in **Automated Reasoning**.
 
-In my undergrad, I worked on loop invariant generation, program synthesis, and scaling network verification using symbolic execution.
+In my undergrad, I worked on loop invariant generation, program synthesis, and scaling symbolic execution for verifying network functions.
 
 Ping me if you want to chat!
 
