@@ -12,7 +12,6 @@ In my undergrad, I worked on loop invariant generation, program synthesis, and s
 
 Ping me if you want to chat!
 
-**I am seeking Summer 2025 internships!**
 
 ### News
 
