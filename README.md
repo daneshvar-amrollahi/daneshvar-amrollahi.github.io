@@ -9,3 +9,7 @@
     ```
     $ hugo server
     ```
+
+* Set up repo on a new machine:
+1. `git clone --recurse-submodules https://github.com/daneshvar-amrollahi/blog`
+2. `git checkout cs-stanford`
