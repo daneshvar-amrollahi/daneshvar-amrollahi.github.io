@@ -6,14 +6,21 @@
     <description>Recent content in Home on Daneshvar</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://cs.stanford.edu/~daneshva/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Happiness is just a distraction</title>
-      <link>https://cs.stanford.edu/~daneshva/post/2025/04/06/happiness-is-just-a-distraction/</link>
+      <title>Why Are We Still So Skeptical About LLMs?</title>
+      <link>https://cs.stanford.edu/~daneshva/post/2025/07/23/why-are-we-still-so-skeptical-about-llms/</link>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://cs.stanford.edu/~daneshva/post/2025/07/23/why-are-we-still-so-skeptical-about-llms/</guid>
+      <description>&lt;p&gt;I just read that Gemini 2.5 managed to win a gold medal at the IMO 2025. That’s wild. And yet I still see a lot of people especially in academia making fun of large language models and their users, saying they’re unreliable or dumb. I don’t think that’s true at all.&lt;/p&gt;&#xA;&lt;p&gt;Two examples come to mind.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;The calculator analogy&#xA;A colleague of mine said this while we were chatting over lunch, and I loved it:&#xA;&amp;ldquo;Imagine a calculator just got invented that multiplies large numbers. When someone says ‘I don’t trust AI,’ it’s as funny as saying ‘Oh, I don’t trust those calculators, I wanna do all the computation by hand.’”&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Antidote Is Difficulty</title>
+      <link>https://cs.stanford.edu/~daneshva/post/2025/04/06/the-antidote-is-difficulty/</link>
       <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://cs.stanford.edu/~daneshva/post/2025/04/06/happiness-is-just-a-distraction/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve recently come to the conclusion that life is, by default, taking us toward destruction. A great piece of evidence for this is death—everyone dies in the end. There are many similar examples around us: plants die, our electronic devices eventually stop working like they once did, food goes bad and starts to smell, and we become physically less capable as we age.&lt;/p&gt;&#xA;&lt;p&gt;All we do in life is ignore this fact and try to delay the destruction we&amp;rsquo;re all headed for. These efforts are what keep us sane—what we call happiness. Yet, happiness isn’t some ultimate state; it’s merely our way of escaping the fact that, in the end, it’s all about destruction.&lt;/p&gt;</description>
+      <guid>https://cs.stanford.edu/~daneshva/post/2025/04/06/the-antidote-is-difficulty/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve recently come to the conclusion that life is, by default, taking us toward destruction. A great piece of evidence for this is death. Everyone dies in the end. There are many similar examples around us: plants die, our electronic devices eventually stop working like they once did, food goes bad and starts to smell, we become physically less capable as we age, and so on.&lt;/p&gt;&#xA;&lt;p&gt;What holds this destruction off is &lt;em&gt;challenge&lt;/em&gt;. If we don’t regularly put ourselves in difficult situations, if we avoid discomfort, the process of decay speeds up. We become weaker, duller, more depressed. Challenge is the only thing that keeps us sharp. When you stop working out, your body slowly loses the muscle you’ve built over the weeks. When you stop learning, your mind starts to dull. The only way to delay the inevitable is to keep pushing back through effort and difficulty. That resistance is the closest thing we have to an antidote.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Using a Linux Laptop as a Hotspot for a PS5</title>

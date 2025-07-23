@@ -2,28 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cs.stanford.edu/~daneshva/categories/</loc>
-    <lastmod>2025-04-06T00:00:00+00:00</lastmod>
+    <loc>https://cs.stanford.edu/~daneshva/tags/ai/</loc>
+    <lastmod>2025-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cs.stanford.edu/~daneshva/post/2025/04/06/happiness-is-just-a-distraction/</loc>
-    <lastmod>2025-04-06T00:00:00+00:00</lastmod>
+    <loc>https://cs.stanford.edu/~daneshva/categories/</loc>
+    <lastmod>2025-07-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cs.stanford.edu/~daneshva/</loc>
-    <lastmod>2025-04-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cs.stanford.edu/~daneshva/tags/llm/</loc>
+    <lastmod>2025-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cs.stanford.edu/~daneshva/post/</loc>
+    <lastmod>2025-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cs.stanford.edu/~daneshva/tags/rambling/</loc>
+    <lastmod>2025-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cs.stanford.edu/~daneshva/tags/</loc>
+    <lastmod>2025-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cs.stanford.edu/~daneshva/categories/thoughts/</loc>
+    <lastmod>2025-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cs.stanford.edu/~daneshva/post/2025/07/23/why-are-we-still-so-skeptical-about-llms/</loc>
+    <lastmod>2025-07-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cs.stanford.edu/~daneshva/tags/philosophy/</loc>
     <lastmod>2025-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cs.stanford.edu/~daneshva/post/</loc>
-    <lastmod>2025-04-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cs.stanford.edu/~daneshva/tags/rambling/</loc>
-    <lastmod>2025-04-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cs.stanford.edu/~daneshva/tags/</loc>
-    <lastmod>2025-04-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cs.stanford.edu/~daneshva/categories/thoughts/</loc>
+    <loc>https://cs.stanford.edu/~daneshva/post/2025/04/06/the-antidote-is-difficulty/</loc>
     <lastmod>2025-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cs.stanford.edu/~daneshva/tags/linux/</loc>
