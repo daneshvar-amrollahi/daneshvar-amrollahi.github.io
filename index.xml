@@ -2,45 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Daneshvar</title>
-    <link>https://cs.stanford.edu/~daneshva/</link>
+    <link>http://localhost:1313/~daneshva/</link>
     <description>Recent content in Home on Daneshvar</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://cs.stanford.edu/~daneshva/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/~daneshva/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Four Reviewers, Four Scores, Zero Consensus</title>
+      <link>http://localhost:1313/~daneshva/post/2026/02/12/four-reviewers-four-scores-zero-consensus/</link>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/~daneshva/post/2026/02/12/four-reviewers-four-scores-zero-consensus/</guid>
+      <description>&lt;p&gt;We recently got reviews back for our PLDI submission. Four reviewers. Scores: A, B, C, D. One reviewer per possible grade.&lt;/p&gt;&#xA;&lt;p&gt;The funniest part? Two of these reviewers both declared themselves &lt;em&gt;experts&lt;/em&gt; in the subject area. One said &amp;ldquo;Good paper, I will champion it.&amp;rdquo; The other said &amp;ldquo;Serious problems, I will argue to reject this paper.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Same paper. Same claimed expertise. Opposite verdicts.&lt;/p&gt;&#xA;&lt;p&gt;But my favorite detail is this. The strongest rejecter opened their review with:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Why Are We Still So Skeptical About LLMs?</title>
-      <link>https://cs.stanford.edu/~daneshva/post/2025/07/23/why-are-we-still-so-skeptical-about-llms/</link>
+      <link>http://localhost:1313/~daneshva/post/2025/07/23/why-are-we-still-so-skeptical-about-llms/</link>
       <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://cs.stanford.edu/~daneshva/post/2025/07/23/why-are-we-still-so-skeptical-about-llms/</guid>
+      <guid>http://localhost:1313/~daneshva/post/2025/07/23/why-are-we-still-so-skeptical-about-llms/</guid>
       <description>&lt;p&gt;I just read that Gemini 2.5 Pro managed to win a gold medal at the IMO 2025. That’s wild. And yet I still see a lot of people especially in academia making fun of large language models and their users, saying they’re unreliable or dumb. I don’t think that’s true at all.&lt;/p&gt;&#xA;&lt;p&gt;Two examples come to mind.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;The calculator analogy.&#xA;A colleague of mine said this while we were chatting over lunch, and I loved it:&#xA;&amp;ldquo;Imagine a calculator just got invented that multiplies large numbers. When someone says ‘I don’t trust AI,’ it’s as funny as saying ‘Oh, I don’t trust those calculators, I wanna do all the computation by hand.’”&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Antidote Is Difficulty</title>
-      <link>https://cs.stanford.edu/~daneshva/post/2025/04/06/the-antidote-is-difficulty/</link>
+      <link>http://localhost:1313/~daneshva/post/2025/04/06/the-antidote-is-difficulty/</link>
       <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://cs.stanford.edu/~daneshva/post/2025/04/06/the-antidote-is-difficulty/</guid>
+      <guid>http://localhost:1313/~daneshva/post/2025/04/06/the-antidote-is-difficulty/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve recently come to the conclusion that life is, by default, taking us toward destruction. A great piece of evidence for this is death. Everyone dies in the end. There are many similar examples around us: plants die, our electronic devices eventually stop working like they once did, food goes bad and starts to smell, we become physically less capable as we age, and so on.&lt;/p&gt;&#xA;&lt;p&gt;What holds this destruction off is &lt;em&gt;challenge&lt;/em&gt;. If we don’t regularly put ourselves in difficult situations, if we avoid discomfort, the process of decay speeds up. We become weaker, duller, more depressed. Challenge is the only thing that keeps us sharp. When you stop working out, your body slowly loses the muscle you’ve built over the weeks. When you stop learning, your mind starts to dull. The only way to delay the inevitable is to keep pushing back through effort and difficulty. That resistance is the closest thing we have to an antidote.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Using a Linux Laptop as a Hotspot for a PS5</title>
-      <link>https://cs.stanford.edu/~daneshva/post/2024/11/26/using-a-linux-laptop-as-a-hotspot-for-a-ps5/</link>
+      <link>http://localhost:1313/~daneshva/post/2024/11/26/using-a-linux-laptop-as-a-hotspot-for-a-ps5/</link>
       <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://cs.stanford.edu/~daneshva/post/2024/11/26/using-a-linux-laptop-as-a-hotspot-for-a-ps5/</guid>
+      <guid>http://localhost:1313/~daneshva/post/2024/11/26/using-a-linux-laptop-as-a-hotspot-for-a-ps5/</guid>
       <description>&lt;p&gt;It was Thanksgiving week, and because of Black Friday, I finally decided to buy a PS5. I didn’t expect it to feel like a big moment, but when I walked out of Best Buy holding the box, I was really happy. It felt a bit like getting a new car. I even put the box on the passenger seat and buckled it in.&lt;/p&gt;&#xA;&lt;p&gt;When I got home, I had a small problem. To connect the PS5 to the university Wi-Fi, I needed to register its MAC address on &lt;a href=&#34;https://rnt.stanford.edu/&#34;&gt;iprequest.stanford.edu&lt;/a&gt;, but the website wasn’t working. My laptop was already connected to the internet, so I made a Wi-Fi hotspot on it and connected the PS5 through that. It worked well, and I was able to finish setting it up without waiting.&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Post</title>
-      <link>https://cs.stanford.edu/~daneshva/post/2023/11/04/first-post/</link>
+      <link>http://localhost:1313/~daneshva/post/2023/11/04/first-post/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://cs.stanford.edu/~daneshva/post/2023/11/04/first-post/</guid>
+      <guid>http://localhost:1313/~daneshva/post/2023/11/04/first-post/</guid>
       <description>&lt;p&gt;I am in love with this new extremely minimal theme designed by &lt;a href=&#34;https://github.com/yihui/hugo-xmin&#34;&gt;Yihui&lt;/a&gt;. It also supports LaTeX math expressions. Here is the induction axiom for structural induction on type &lt;code&gt;$\tau$&lt;/code&gt;, that I just copied from our current draft on Overleaf:&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;$$ \biggl( \bigwedge_{c \in \Sigma_{\tau}} \Bigl[ \forall_{i = 1}^{n_c} y_{c,i} . \forall_{k \in P_c} w_{c,k} . \exists u_c . \bigl( (\bigwedge_{j \in P_c} L[y_{c,j}, w_{c,j}]) \rightarrow L[c(\bar{y_c}), u_c] \bigr) \Bigr] \biggr) \rightarrow \forall z .\exists x. L[z, x] $$&lt;/code&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Miscellaneous</title>
-      <link>https://cs.stanford.edu/~daneshva/misc/</link>
+      <link>http://localhost:1313/~daneshva/misc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cs.stanford.edu/~daneshva/misc/</guid>
+      <guid>http://localhost:1313/~daneshva/misc/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;I’m into shooting 35mm film. Check out some of my shots &lt;a href=&#34;https://www.instagram.com/daneshvar.on.film/&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Even though I’m a beginner, I do &lt;a href=&#34;https://www.mountainproject.com/user/202010578/daneshvar-amrollahi&#34;&gt;rock climbing&lt;/a&gt; as a hobby, mostly sport climbing. I also do bouldering, but I don’t enjoy it as much.&lt;/li&gt;&#xA;&lt;li&gt;An incomplete list of my favorite musical artists and bands (in no particular order) includes Marlon Funaki, Radiohead, Pink Floyd, Metallica, Max Richter, Matthew Halsall, Arctic Monkeys, Joep Beving, Julia Jacklin, Tame Impala, EELS, Isaac Gracie, Archive, Ólafur Arnalds, Frédéric Chopin, Kourosh Yaghmaei, Molchat Doma, Alice in Chains, Pearl Jam, Nirvana, 127, Peyman Yazdanian, Gustavo Santaolalla, Chet Baker, Bill Evans, and last but not least, &lt;a href=&#34;https://youtube.com/@youngmorvarid?si=_6uTrxChGWKxXOFX&#34;&gt;Dorcci&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;I have recently taken up playing the &lt;a href=&#34;https://www.instagram.com/daneshvar.on.bass/&#34;&gt;bass guitar&lt;/a&gt;. I am obsessed with Japanese city pop bass lines because they are smooth, melodic, and effortlessly groovy. Each note carries carries not only rhytm but also emotion.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
