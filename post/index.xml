@@ -16,13 +16,6 @@
       <description>&lt;p&gt;Something happened somewhere between then and now. We got smarter, faster, more efficient — and in doing so, we made everything around us a little more ugly. A little more hollow.&lt;/p&gt;&#xA;&lt;p&gt;Have you ever heard Layne Staley sing live? Or Kurt Cobain? Or listened to a Pink Floyd album from start to finish? There&amp;rsquo;s a rawness, a harmonic complexity, an emotional arc that no algorithm can manufacture. These bands &lt;em&gt;composed&lt;/em&gt;. They built something. Unfortunately, nobody is really making music in those styles anymore — and I think we feel that absence even if we can&amp;rsquo;t name it. What we get instead is autotune over four chords, engineered to be catchy, not to be felt.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Four Reviewers, Four Scores, Zero Consensus</title>
-      <link>https://cs.stanford.edu/~daneshva/post/2026/02/16/four-reviewers-four-scores-zero-consensus/</link>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://cs.stanford.edu/~daneshva/post/2026/02/16/four-reviewers-four-scores-zero-consensus/</guid>
-      <description>&lt;p&gt;We recently got reviews back for our PLDI submission. Four reviewers. Scores: A, B, C, D. One reviewer per possible grade.&lt;/p&gt;&#xA;&lt;p&gt;The funniest part? Two of these reviewers both declared themselves &lt;em&gt;experts&lt;/em&gt; in the subject area. One said &amp;ldquo;Good paper, I will champion it.&amp;rdquo; The other said &amp;ldquo;Serious problems, I will argue to reject this paper.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Same paper. Same claimed expertise. Opposite verdicts.&lt;/p&gt;&#xA;&lt;p&gt;But my favorite detail is this. The strongest rejecter opened their review with:&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Why Are We Still So Skeptical About LLMs?</title>
       <link>https://cs.stanford.edu/~daneshva/post/2025/07/23/why-are-we-still-so-skeptical-about-llms/</link>
       <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
